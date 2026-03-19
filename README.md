@@ -1,6 +1,3 @@
-# anomaly-detection-network-traffic
-Unsupervised anomaly detection in network traffic using DBSCAN, K-Means, PCA, and UMAP.
-
 # Anomaly Detection in Network Traffic Using Unsupervised Clustering
 
 ## 📘 Overview
